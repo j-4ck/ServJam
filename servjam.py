@@ -1,4 +1,5 @@
 # long live delete humanity
+# inspired by @ j4ck3rm0n
 import sys
 import logging
 from time import sleep
