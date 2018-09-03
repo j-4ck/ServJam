@@ -1,3 +1,4 @@
+# long live delete humanity
 import sys
 import logging
 from time import sleep
